@@ -71,7 +71,7 @@ npm install
 
 Create a `.env` file inside the `Backend` directory and configure the following environment variables:
 ```env
-PORT=5000
+PORT=3000
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret_key
 GEMINI_API_KEY=your_google_gemini_api_key
